@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/datadock/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <http://datadock.io/digidatajen/datadock/metadata>.
+<http://datadock.io/digidatajen/datadock/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Jen Williams" <http://datadock.io/digidatajen/datadock/metadata>.
+<http://datadock.io/digidatajen/datadock/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Jen Williams" <http://datadock.io/digidatajen/datadock/metadata>.
